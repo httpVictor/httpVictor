@@ -2,7 +2,6 @@
 
 - 🖥️ Software developer [fullstack]
 - 💡  Desenvolvedor de Sistemas - SENAI 2023
-- 
  
 <div align="center">
   <a href="https://github.com/httpVictor">
@@ -27,8 +26,8 @@
 ##
 
 <div align="center" style="display: inline_block"> 
-  <a href = "mailto:bkorczak55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruna-diele-korczak-trino-03a050205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:http.nepomuceno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dev-nepomuceno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!--
