@@ -2,6 +2,7 @@
 
 - 🖥️ Software developer [fullstack]
 - 💡  Desenvolvedor de Sistemas - SENAI 2023
+ <br>
  
 <div align="center">
   <a href="https://github.com/httpVictor">
