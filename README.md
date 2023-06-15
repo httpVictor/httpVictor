@@ -3,12 +3,11 @@
 - 🖥️ Software developer [fullstack]
 - 💡  Desenvolvedor de Sistemas - SENAI 2023
 - 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
  
 <div align="center">
   <a href="https://github.com/httpVictor">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=brukorczak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brukorczak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=httpVictor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpVictor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
