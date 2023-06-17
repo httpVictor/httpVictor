@@ -5,8 +5,8 @@
  <br>
 
 <h3>Meus principais Projetos</h3>
-<h4 href="https://github.com/httpVictor/I-Fox-web">I-FOX: Trabalho de Conclusão de Curso (WEB)</h4>
-<h4 href="https://github.com/httpVictor/I-Fox-Android">I-FOX: Trabalho de Conclusão de Curso (ANDROID)</h4>
+<h4><a href="https://github.com/httpVictor/I-Fox-web">I-FOX: Trabalho de Conclusão de Curso (WEB)</a></h4>
+<h4> <a href="https://github.com/httpVictor/I-Fox-Android">I-FOX: Trabalho de Conclusão de Curso (ANDROID)</a></h4>
  
 
 <div align="center">
