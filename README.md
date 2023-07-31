@@ -1,7 +1,7 @@
 ### Hy, my name is Victor Nepomuceno
 
 - 🖥️ Software developer [fullstack]
-- 💡  Desenvolvedor de Sistemas - SENAI 2023
+- 💡  Desenvolvimento de Sistemas - SENAI 2023
  <br>
 
 <h3>Meus principais Projetos</h3>
