@@ -4,11 +4,6 @@
 - 💡  Desenvolvimento de Sistemas - SENAI 2023
  <br>
 
-<h3>Meus principais Projetos</h3>
-<h4><a href="https://github.com/httpVictor/I-Fox-web">I-FOX: Trabalho de Conclusão de Curso (WEB)</a></h4>
-<h4> <a href="https://github.com/httpVictor/I-Fox-Android">I-FOX: Trabalho de Conclusão de Curso (ANDROID)</a></h4>
- 
-
 <div align="center">
   <a href="https://github.com/httpVictor">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=httpVictor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
